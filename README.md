@@ -91,12 +91,13 @@ The agent is incentivized through a multi-factor reward system:
 
 ## 📊 Results
 
-After 500 training episodes:
+The agent was trained for 500 episodes under dynamically switching gravity modes.
 
-- **Average Reward:** 182
-- **Success Rate:** 87%
-- **Convergence Episode:** ~320
-- **Stability under gravity shifts:** High
+## 📊 Current Performance
+
+- Agent successfully learns adaptive navigation behavior under varying gravity conditions.
+- Training reward shows progressive upward trend across episodes.
+- Further hyperparameter optimization ongoing to improve convergence speed and stability.
 
 ## 📈 Training Performance
 
@@ -138,3 +139,4 @@ MIT License
 
 ---
 *Built for the next generation of adaptive robotics.*
+
